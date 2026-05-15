@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diyaluo.github.io/gaokao-advisor/sitemap-index.xml
+Sitemap: https://diyaluo.github.io/gaokao-advisor/sitemap.xml
+Sitemap: https://diyaluo.github.io/image-compressor/sitemap.xml
+Sitemap: https://diyaluo.github.io/image-to-pdf/sitemap.xml
+Sitemap: https://diyaluo.github.io/watermark-remover/sitemap.xml
